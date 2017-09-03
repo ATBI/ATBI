@@ -1,0 +1,9 @@
+Building Altbit
+
+See doc/readme-qt.rst for instructions on building Altbit-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Altbit.
+
+See doc/build-*.txt for instructions on building altbitd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Altbit.
