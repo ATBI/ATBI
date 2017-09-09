@@ -4,19 +4,19 @@ Altbit integration/staging tree
 http://altbit.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Altbit Developers
+Copyright (c) 2016-2017 Altbit Developers
 
 What is Altbit?
 ----------------
 
 Altbit is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
+ - 30 seconds block targets
+ - subsidy halves in 840k blocks (~8 months)
  - ~84 million total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 10 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Altbit client sofware, see http://altbit.org.
